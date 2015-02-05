@@ -14,14 +14,14 @@ int main()
 	scanf("%d", &second);
 	
 	add = first + second;
-//	subtract = first - second;
-//	multiply = first * second;
-//	divide = first / second;
+	subtract = first - second;
+	multiply = first * second;
+	divide = first / second;
 	
 	printf("Addition = %d\n", add);
-//	printf("Subtraction = %d\n", &subtract);
-//	printf("Multiply = %d\n", &multiply);
-//	printf("Divide = %d\n", &divide);
+	printf("Subtraction = %d\n", &subtract);
+	printf("Multiply = %d\n", &multiply);
+	printf("Divide = %d\n", &divide);
 
 	return 0;
 }
