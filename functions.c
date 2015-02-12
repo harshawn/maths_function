@@ -24,5 +24,7 @@ int main()
 	printf("Multiply = %d\n", &multiply);
 	printf("Divide = %d\n", &divide);
 
+	printf("Function Completed\n");
+	
 	return 0;
 }
