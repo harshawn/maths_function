@@ -1,4 +1,5 @@
 //This is the line causing issue in the conflict branch
+//This is the second line causing issue in the <*master/conflict> branch
 //Functionality to add, subtract, multiply,divide
 //with each option added in seprate commit
 
