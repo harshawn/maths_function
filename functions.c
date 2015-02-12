@@ -1,4 +1,3 @@
-//This is the line causing issue in the conflict branch
 //Functionality to add, subtract, multiply,divide
 //with each option added in seprate commit
 
@@ -6,7 +5,6 @@
 
 int main() 
 {
-	//This is the line causing issue in the master branch
 	printf("Maths Functions\n");
 	int first, second, add, subtract, multiply;
 	float divide, remainder;
