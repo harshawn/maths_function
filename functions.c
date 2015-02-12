@@ -5,6 +5,7 @@
 
 int main() 
 {
+	printf("Maths Functions\n");
 	int first, second, add, subtract, multiply;
 	float divide;
 	
