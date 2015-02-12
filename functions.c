@@ -5,6 +5,7 @@
 
 int main() 
 {
+	//This is the line causing issue in the conflict branch
 	printf("Maths Functions\n");
 	int first, second, add, subtract, multiply;
 	float divide, remainder;
